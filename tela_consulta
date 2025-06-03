@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="UTF-8">
+<head>
+    <meta charset="UTF-8">
+   
+    <title> Gerência da Clínica </title>
+</head>
+<body style="background-color: #B3D9FF;text-align: center;">
+    <h1> Agendar Consulta </h1>
+    <p> Nome do Paciente </p>
+    <input type="text">
+    <p> CPF </p>
+    <input type="text">
+    <p> Telefone </p>
+    <input type="text">
+    <p> Especialidade </p>
+    <input type="text">
+    <p> Médico Reponsável </p>
+    <input type="text">
+    <p> Data da Consulta </p>
+    <input type="date">
+    <p> Horário da Consulta </p>
+    <input type="time">
+    <p> Agendar </p>   <a href="tela_principal.html">Voltar</a>
+
+</body>
+</html>
