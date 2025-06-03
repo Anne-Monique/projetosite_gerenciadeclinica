@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="UTF-8">
+<head>
+    <meta charset="UTF-8">
+    
+    <title> Gerência da Clínica  </title>
+</head>
+
+<body style="background-color:#B3D9FF ;text-align: left;">
+    <h1>Novo Médico</h1> <img src="hospital (1).png" width="50px" height:auto>
+        <p> Nome Completo </p>
+    <input type="text">
+    <p> E-mail </p>
+    <input type="text">
+    <p> CPF </p>
+    <input type="text">
+    <p> Telefone </p>
+    <input type="text">
+    <p> Especialidade </p>
+    <input type="text">
+    <p> Horário de Atendimento </p>
+    <input type="time"> <input type="time">
+    <br>
+    <a href="tela_principal.html">Voltar</a> 
+
+</html>
