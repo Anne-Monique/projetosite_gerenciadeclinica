@@ -1,0 +1,98 @@
+<html>
+    <meta charset="UTF-8">
+    <head> 
+        <title> Gerência da Clínica  </title>
+       
+    </head>
+
+    <body style="background-color: #B3D9FF;text-align:center;">
+     <h1> Gerência da Clínica  </h1>
+     <br>
+    <img src="saude.png"  width="100px"  height: auto>
+    <p> 
+     
+     <h3>Consultas Marcadas para hoje: </h3> 
+       <table border="1", text align="center">
+         <tr>
+   <th>Paciente</th>
+   <th>Médico</th>
+   <th>Data</th>
+   <th>Horário</th>
+        </tr>
+         <tr>
+   <td>Fulano</td>
+   <td>Dr.Fulano</td>
+   <td>13/05/25</td>
+   <td>11h</td>
+        </tr>
+         <tr>
+   <td>Fulano</td>
+   <td>Dr.Fulano</td>
+   <td>13/05/25</td>
+   <td>11h</td>
+        </tr>
+         <tr>
+   <td>Fulano</td>
+   <td>Dr.Fulano</td>
+   <td>13/05/25</td>
+   <td>11h</td>
+        </tr>
+         <tr>
+   <td>Fulano</td>
+   <td>Dr.Fulano</td>
+   <td>13/05/25</td>
+   <td>11h</td>
+        </tr>
+     </table>
+    </p>
+
+    <h3> Exames Marcados:</h3>
+    
+    <table border="1", text align="center">
+
+         <tr>
+   <th>Paciente</th>
+   <th>Médico</th>
+   <th>Data</th>
+   <th>Horário</th>
+
+        </tr>
+         <tr>
+   <td>Fulano</td>
+   <td>Dr.Fulano</td>
+   <td>13/05/25</td>
+   <td>11h</td>
+        </tr>
+         <tr>
+   <td>Fulano</td>
+   <td>Dr.Fulano</td>
+   <td>13/05/25</td>
+   <td>11h</td>
+        </tr>
+         <tr>
+   <td>Fulano</td>
+   <td>Dr.Fulano</td>
+   <td>13/05/25</td>
+   <td>11h</td>
+        </tr>
+         <tr>
+   <td>Fulano</td>
+   <td>Dr.Fulano</td>
+   <td>13/05/25</td>
+   <td>11h</td>
+        </tr>
+    </table>
+<br>
+    <nav>
+      <a href="pacientes.html">Novo Paciente </a>
+      <br>
+      <a href="médicos.html">Cadastrar Médico</a>
+      <br>
+      <a href="consulta.html"> Agendar Consulta </a>
+    </nav>
+
+    </body>
+        
+    
+
+</html>
